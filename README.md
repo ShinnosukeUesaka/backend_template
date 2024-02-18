@@ -1,4 +1,4 @@
-# Firebase Poetry GCP template
+# FastAPI Firebase OpenAI Poetry CloudRun template
 
 1. Create new project in GCP and set up firebase (with database)
 2. Set up artifact registry, Cloud Run API
