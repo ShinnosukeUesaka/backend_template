@@ -16,6 +16,11 @@
 4. Set GCP_SA_KEY in github repository secret
 5. Set project name and gcp project id
 6. Commit and push the change to github
-7. Set OPENAI_API_KEY in cloud run
+7. Set OPENAI_API_KEY in Cloud Run
+
+## Local Setup
+1. add firebase_key.json to the project folder
+2. rename .env.sample to .env
+3. run ```uvicorn project_name.main:app --reload```
 
 make update-name
